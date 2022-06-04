@@ -1,0 +1,64 @@
+table.vgt-table {
+    font-size: 13px !important;
+}
+
+.main-menu .navbar-header .navbar-brand .brand-text {
+    font-size: 15px !important;
+    color: #5a8dee;
+}
+
+.main-menu .navbar-header {
+    height: 5.45rem !important;
+}
+
+.main-menu .navbar-header .navbar-brand {
+    white-space: unset !important;
+}
+
+.vgt-table tr {
+    height: 30px;
+}
+
+.columnAction {
+    display: flex;
+    width: 100%;
+}
+
+.main-menu.menu-light .navigation li a>* {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.main-menu.menu-light .navigation li a>span {
+    width: calc(100% - 14px - 1.45rem);
+}
+
+.nav {
+    flex-wrap: unset;
+}
+
+.vs__dropdown-toggle {
+    background-color: white !important;
+}
+
+.modal-title {
+    font-weight: bold !important;
+    color: #2e466e;
+}
+
+.form-group.required label:after {
+    content: none !important;
+}
+
+.mr-table-icon {
+    margin-right: 10px;
+}
+
+
+/*.dx-datagrid-content-fixed:nth-of-type(1) > table > tbody > tr > .column-height:nth-of-type(1){*/
+
+
+/*    height: 139px !important;*/
+
+
+/*}*/
